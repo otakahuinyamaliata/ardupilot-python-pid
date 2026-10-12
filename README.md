@@ -1,11 +1,16 @@
 # ArduPilot Python PID
 
-A learning-focused project for implementing and validating custom PID altitude control in ArduPilot Copter SITL using Python and MAVLink.
+<details>
+<summary><strong>0. Етапи розробки</strong></summary>
 
-## Project status
+0. Основа проєкту
+1. ArduPilot SITL і QGroundControl і Структура репозиторію
+2. Робота з MAVLink
+3. Вивчення, реалізація та тест PID-контролера
+4. Керування Copter
+5. Тестовий політ у SITL
+6. Повна висотна місія
+7. Перевірка стабільності
+8. Фінальна документація
 
-Project foundation and local development environment setup are in progress. Flight-control functionality has not been implemented yet.
-
-## Goal
-
-Build a reproducible Python application that controls Copter altitude through MAVLink, validates the behavior in ArduPilot SITL, and documents the result with automated checks and flight evidence.
+</details>
