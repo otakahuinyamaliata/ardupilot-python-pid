@@ -1,6 +1,4 @@
-# ArduPilot Python PID
 
-Навчальний проєкт із керування висотою ArduPilot Copter SITL власним PID-контролером через Python і MAVLink.
 
 <details>
 <summary><strong>0. Етапи розробки</strong></summary>
